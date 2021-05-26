@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{22A95429-4659-4A81-AEBE-6ECBDC26CFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookEvent.Console", "BookEvent.Console\BookEvent.Console.csproj", "{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Data", "3.Data", "{95693F10-2522-4486-BDC4-1693BC779D99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Business Domain", "2.Business Domain", "{CC6A0698-7E53-4FB3-85AF-7E5E652448DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D13C8D2E-2FE7-4D81-B45A-7F7754E8AF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookEvent.Data", "BookEvent.Data\BookEvent.Data.csproj", "{FA922D00-D9CD-4305-8705-5DD6EAF911FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookEvent.Business", "BookEvent.Business\BookEvent.Business.csproj", "{EFE5E09D-E8C1-4642-A923-83B65CB66925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookEvent.UnitTest", "BookEvent.UnitTest\BookEvent.UnitTest.csproj", "{68017E3D-50D3-45BA-9168-81479AF0B368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA922D00-D9CD-4305-8705-5DD6EAF911FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA922D00-D9CD-4305-8705-5DD6EAF911FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA922D00-D9CD-4305-8705-5DD6EAF911FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA922D00-D9CD-4305-8705-5DD6EAF911FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE5E09D-E8C1-4642-A923-83B65CB66925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE5E09D-E8C1-4642-A923-83B65CB66925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE5E09D-E8C1-4642-A923-83B65CB66925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE5E09D-E8C1-4642-A923-83B65CB66925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68017E3D-50D3-45BA-9168-81479AF0B368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68017E3D-50D3-45BA-9168-81479AF0B368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68017E3D-50D3-45BA-9168-81479AF0B368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68017E3D-50D3-45BA-9168-81479AF0B368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82C86BAD-D8BE-4BC3-9A97-D771E5DF979C} = {22A95429-4659-4A81-AEBE-6ECBDC26CFCE}
+		{FA922D00-D9CD-4305-8705-5DD6EAF911FD} = {95693F10-2522-4486-BDC4-1693BC779D99}
+		{EFE5E09D-E8C1-4642-A923-83B65CB66925} = {CC6A0698-7E53-4FB3-85AF-7E5E652448DF}
+		{68017E3D-50D3-45BA-9168-81479AF0B368} = {D13C8D2E-2FE7-4D81-B45A-7F7754E8AF81}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27423175-F1EB-4423-8025-F809590DA60A}
+	EndGlobalSection
+EndGlobal

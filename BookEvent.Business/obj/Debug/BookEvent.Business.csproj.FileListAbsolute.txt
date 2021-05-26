@@ -1,0 +1,6 @@
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\bin\Debug\BookEvent.Business.dll
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\bin\Debug\BookEvent.Business.pdb
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\obj\Debug\BookEvent.Business.csprojAssemblyReference.cache
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\obj\Debug\BookEvent.Business.csproj.CoreCompileInputs.cache
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\obj\Debug\BookEvent.Business.dll
+C:\Users\guneetgupta\source\repos\BookEvent\BookEvent.Business\obj\Debug\BookEvent.Business.pdb

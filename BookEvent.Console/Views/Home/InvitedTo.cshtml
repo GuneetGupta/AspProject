@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Invent invited to";
+}
+
+<h2>You Are Invited In These Events</h2>
+<br />
+@foreach (var item in Model)
+{
+    <span>@item</span>
+    <hr />
+}
+
+    <p>
+        @Html.ActionLink("Details", "Index", "Events") |
+        @Html.ActionLink("Back to Home Page", "Index")
+    </p>
